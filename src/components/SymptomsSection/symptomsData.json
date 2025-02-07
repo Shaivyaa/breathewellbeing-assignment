@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Increased Appetite",
+    "description": "Since diabetes is a condition in which cells stop reacting toward insulin, glucose cannot enter the cells. This glucose is converted into energy in the cells, and the absence of glucose creates energy scarcity in the body. To get this energy, the body requires more food which increases appetite or hunger. So if you feel lethargic or tired even after eating a proper meal, take it as one of the symptoms of diabetes.",
+    "image": "/assets/symptom-1.png"
+  },
+  {
+    "title": "Increased Thirst",
+    "description": "Increased thirst is the outcome of excess glucose in the blood. Diabetes causes sugar spikes that dehydrate the muscles and leads to increased thirst. Also, kidneys work extra to excrete this excess sugar from the blood. It eventually wears out and releases extra fluid and sugar from tissues. It increases thirst to overcome dehydration.",
+    "image": "/assets/symptom-2.png"
+  }
+]

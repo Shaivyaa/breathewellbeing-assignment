@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Poppins', Courier, monospace;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.accordions {
+  width: 90%;
+  max-width: 60ch;
+  margin: 0 auto;
+}
+
+.accordion {
+  margin-bottom: 1rem;
+  overflow: hidden;
+  transition: border-color 0.5s ease;
+  background-color: white;
+  border: 1px solid transparent;
+}
+
+.accordion__header {
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 1rem;
+}
+
+.accordion__header::after {
+  content: '+';
+  position: absolute;
+  right: 1.5em;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #4AA2B0;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s ease, content 0.2s ease;
+}
+
+.accordion input:checked ~ .accordion__header::after {
+  content: '−';
+  transform: rotate(180deg);
+}
+
+.accordion:has(input:checked) .accordion__header {
+  color: #000;
+}
+
+.accordion__content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease;
+  padding: 0 1em;
+}
+
+.accordion input {
+  display: none;
+}
+
+.accordion input:checked ~ .accordion__content {
+  max-height: 1000px; 
+}

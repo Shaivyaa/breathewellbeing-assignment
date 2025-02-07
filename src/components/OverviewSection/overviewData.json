@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Type 1 Diabetes",
+    "description": "An autoimmune disease in which insulin cells are destroyed in pancreas. It results in high sugar levels in the body. Additionally, type 1 diabetes runs in the family, so if you are at risk, make sure to identify it in early stage. Its symptoms start quickly, so it's quicker to tap on this disease. Major visible symptoms are weight loss, increased thirst/appetite, frequent urination, weakness, urinary tract infection, excess thirst, blurred vision, slow healing of wounds, numbness in feet and hands, yeast infection, etc.",
+    "image": "/assets/type-1.svg"
+  },
+  {
+    "title": "Type 2 Diabetes & Prediabetes",
+    "description": "An unhealthy lifestyle triggers this metabolic disorder. Type 2 diabetes and prediabetes are conditions in which your body cells become insulin resistant. To fill this scarce of insulin, the pancreas has to release more insulin that wears it out eventually. In this condition, either no enough insulin produced or cells do not use it properly. Identifying symptoms of type 2 diabetes and prediabetes is difficult as they develop slowly over the years. General symptoms are similar to type 1 diabetes as increased thirst/appetite, frequent urination, slow wound healing, etc. If you are living an unhealthy lifestyle & at the risk of prediabetes or diabetes, identify it as soon as possible. Its risk factors include overweight, sedentary lifestyle, unhealthy and untimely food habits, high cholesterol & BP, PCOS, family history, etc.",
+    "image": "/assets/type-2.svg"
+  },
+  {
+    "title": "Gestational Diabetes",
+    "description": "Gestational diabetes is frequently diagnosed in women during pregnancy. This condition happens when some hormones secreted by the placenta make cells insulin resistant. The pancreas cannot produce the desired insulin which increases sugar levels in the body. There are no such visible symptoms of gestational diabetes. The only way to identify it is through suggested blood sugar tests during the 24 to 28 weeks of pregnancy.",
+    "image": "/assets/type-3.svg"
+  }
+]

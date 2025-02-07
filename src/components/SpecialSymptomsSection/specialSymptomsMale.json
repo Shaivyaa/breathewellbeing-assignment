@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Erectile Dysfunction (ED)",
+    "description": "Erectile dysfunction is one of the major symptoms of diabetes. According to many studies, almost 50% of males with diabetes face ED. It is a condition in which a man cannot attain an erection. In the absence of other health issues like kidney problems, high blood pressure, stress, or nerve problems, diabetes can be the sole factor to it.",
+    "image": "/assets/male1.svg"
+  },
+  {
+    "title": "Urological Condition",
+    "description": "Diabetes or high blood sugar levels can increase the risk of various urological conditions like UTI (urinary tract infections), urine leakage, hyperactive bladder, etc. If these symptoms appear, go for a blood glucose level test.",
+    "image": "/assets/male2.svg"
+  },
+  {
+    "title": "Damaged Autonomic Nervous System",
+    "description": "High glucose levels in the body constrict blood vessels that damage nerve cells and restrict smooth blood circulation. It impacts penis nerves and blood flow hence causing ED.",
+    "image": "/assets/male3.svg"
+  }
+]

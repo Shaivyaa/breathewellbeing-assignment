@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Urinary Tract Infection",
+    "description": "UTIs are common in women and in diabetic women, the chances are higher. Increased sugar levels affect the immune system which provides a weak environment for various bacterial infections in the urinary tract. If someone is experiencing frequent UTI, it must be a sign of diabetes.",
+    "image": "/assets/female1.svg"
+  },
+  {
+    "title": "Dryness of Vagina",
+    "description": "Increased sugar levels in the blood promote neuropathy or nerve damage. It impairs the nerve fibers that reduce the sensation in various parts of the body. When this nerve damage affects the vagina, it causes vaginal dryness and fewer sensations in the vagina.",
+    "image": "/assets/female1.svg"
+  },
+  {
+    "title": "Polycystic Ovary Syndrome (PCOS)",
+    "description": "Existing polycystic ovary syndrome can lead to diabetes. It is one alarming symptom. More than 50% of women with PCOS develop diabetes in their 40s. Women with PCOS can face gestational diabetes, which may lead to type 2 diabetes. So if you have PCOS, there is a higher risk of developing diabetes.",
+    "image": "/assets/female1.svg"
+  }
+]

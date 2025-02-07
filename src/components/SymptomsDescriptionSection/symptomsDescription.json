@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Weight Loss",
+    "description": "Weight loss is also one of the alarming symptoms of diabetes. In diabetics, a lack of insulin prevents the body from transferring blood glucose to the body's cells for use as energy since cells become insulin resistant. When this happens, the body begins utilizing fat and muscle for energy, which results in weight loss.",
+    "image": "/assets/symptom1.png"
+  },
+  {
+    "id": "2",
+    "title": "Frequent Urination",
+    "description": "Loss of liquid and glucose from the tissues throughout the body leads to dehydration. This dehydration is an outcome of improper kidney function as excess glucose exerts it to filter more sugar. Dehydration makes a person thirstier, so they keep drinking water, which leads to frequent urination.",
+    "image": "/assets/symptom2.png"
+  },
+  {
+    "id": "3",
+    "title": "Blurry Vision",
+    "description": "Fluctuating sugar levels affect your eye lens, and lead to blurry vision. Rapid changes in blood sugar impact the eye lens that disturbs your clear vision. This issue goes away when blood sugar levels return to a normal range. So maintaining normal blood sugar levels is very important for eye health.",
+    "image": "/assets/symptom3.png"
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": "",
+    "image": "/assets/symptomBg.png"
+  },
+  {
+    "id": "4",
+    "title": "Tiredness & Fatigue",
+    "description": "Fatigue and weakness are common symptoms of diabetes. It is a result of various diabetes-related factors. These factors include high and low blood glucose levels, excess appetite, weight loss, frequent urination, lack of sleep, medicinal side effects, stress, obesity, etc. The spectrum of diabetic fatigue is broad that contributes to fatigue and weakness.",
+    "image": "/assets/symptom4.png"
+  },
+  {
+    "id": "5",
+    "title": "Slow Wound Healing",
+    "description": "People with high blood sugar levels see slow wound healing. It is a clear indication of one of the prominent diabetes symptoms. High glucose levels in the body shrink the blood vessels and hinder blood circulation. Proper blood circulation transports oxygen to the wounded area to heal it fast and save it from infections.",
+    "image": "/assets/symptom5.png"
+  },
+  {
+    "id": "6",
+    "title": "Numbness or Tingling in Hands or Feet",
+    "description": "Numbness of hands or feet is a symptom of diabetes neuropathy. High sugar levels in the blood affect nerves in the body that cause numb hands or feet. Nerves are responsible for carrying motor signals to different parts of the body, and nerve damage obstructs this flow. Thus, a person feels tingling or numbness in hands or feet.",
+    "image": "/assets/symptom6.png"
+  },
+  {
+    "id": "7",
+    "title": "Frequent Infections",
+    "description": "An individual who has high blood sugar is more susceptible to various infections. It is one of the more typical diabetes symptoms. The high sugar levels damage peripheral nerves and reduce blood flow, increasing the risk of developing multiple infections. Other than general diabetes symptoms, there are special symptoms that affect men and women differently.",
+    "image": "/assets/symptom7.png"
+  }
+]
